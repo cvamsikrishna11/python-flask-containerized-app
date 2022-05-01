@@ -47,6 +47,7 @@ MIT
 
 
 ### Ref blogs
+* https://github.com/stelligent/ghost-in-shell
 * https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/
 * https://www.whitesourcesoftware.com/free-developer-tools/blog/docker-expose-port/
 * https://we-are.bookmyshow.com/understanding-expose-in-dockerfile-266938b6a33d
