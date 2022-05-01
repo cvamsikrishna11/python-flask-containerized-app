@@ -28,9 +28,23 @@ python3 app.py
 
 Please note: the application does work as given.
 
+
+### Usage as a container
+
+To create a docker image for the application and run the docker image as a container execute the below commands in the project folder
+
+```bash
+
+docker build --tag python-flask-image .
+
+docker run -d -p 5000:5000 python-flask-image
+
+```
+
 ### License
 
 MIT
+
 
 ### Ref blogs
 * https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/
