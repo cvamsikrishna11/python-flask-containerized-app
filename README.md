@@ -31,3 +31,10 @@ Please note: the application does work as given.
 ### License
 
 MIT
+
+### Ref blogs
+* https://www.freecodecamp.org/news/how-to-dockerize-a-flask-app/
+* https://www.whitesourcesoftware.com/free-developer-tools/blog/docker-expose-port/
+* https://we-are.bookmyshow.com/understanding-expose-in-dockerfile-266938b6a33d
+* https://www.baeldung.com/ops/docker/expose-vs-publish
+
